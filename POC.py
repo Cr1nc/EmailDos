@@ -1,7 +1,7 @@
 import requests
 import json
 
-print("Fucken DOS lad")
+print("EmailDOS")
 print("")
 email = raw_input("What email address do you want to spam:  ")
 amount = raw_input("How many emails do you want to send:  ")
